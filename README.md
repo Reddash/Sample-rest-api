@@ -1,6 +1,6 @@
 # Sample-rest-api
 
-cd <path to the repository>
+cd path_to_the_repository
   
 run npm install
 
