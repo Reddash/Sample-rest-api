@@ -1,0 +1,9 @@
+{
+	"name": "sample-rest-api",
+	"main": "api.js",
+	"description": "Node.js sample REST API",
+	"dependencies": {
+		"body-parser": "^1.17.1",
+		"express": "^4.15.2"
+	}
+}
