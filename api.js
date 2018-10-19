@@ -50,4 +50,4 @@ app.get('/employees/1/Address', function(req, res) {
 
 
 app.listen(port);
-console.log("Server loaded. The magic happens on port", port)
+console.log("Server loaded on port", port)
